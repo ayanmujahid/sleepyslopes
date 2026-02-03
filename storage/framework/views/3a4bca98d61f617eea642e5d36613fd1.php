@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\AA\Documents\GitHub\sleepyslopes\resources\views/layouts/errorhandler.blade.php ENDPATH**/ ?>

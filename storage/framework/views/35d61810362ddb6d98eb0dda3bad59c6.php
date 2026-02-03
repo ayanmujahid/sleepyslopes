@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\AA\Documents\GitHub\sleepyslopes\resources\views/admin/core/editor.blade.php ENDPATH**/ ?>
